@@ -1,6 +1,9 @@
 <fable>
+    <page background="cristo.png">
+
+    </page>
 	<page background="cristo.png">
     <agent x="0" y="0" width="100" height="100" img="pixel-man.png" draggable="true">
  
-  </page>
+    </page>
 </fable>
