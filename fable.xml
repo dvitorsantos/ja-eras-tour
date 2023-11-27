@@ -1,6 +1,6 @@
 <fable>
 	<page background="cristo.png">
-  
+    <agent x="0" y="0" width="10" height="10" img="taylor-swift-pixel-art.jpg">
  
   </page>
 </fable>
