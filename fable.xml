@@ -1,6 +1,7 @@
 <fable>
-    <page background="cristo.png".png">
-        <agent x="0" y="0" text="compre seu ingresso"/>
+    <page background="quarto.jpg">
+        <agent x="0" y="300" text="compre" color="white"/>
+        <agent x="0" y="270" text="seu ingresso" color="white"/>
     </page>
     <page background="cristo.png">
         <agent x="0" y="0" width="100" height="100" img="pixel-man.png" draggable="true"/>
